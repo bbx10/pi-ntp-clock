@@ -2,7 +2,7 @@
 
 ![Date and time on LCD](./images/pi-ntp-clock.gif)
 
-A Raspberry Pi with a character display can be turned into an NTP (Network Time Protocol) clock. As long as the Pi has an Internet connection, the clock is very accurate because it peridically gets the correct date and time from NTP servers. The clock also automatically handles Daylight Saving Time changes.
+A Raspberry Pi with a character display can be turned into an NTP (Network Time Protocol) clock. As long as the Pi has an Internet connection, the clock is very accurate because it periodically gets the correct date and time from NTP servers. The clock also automatically handles Daylight Saving Time changes.
 
 ## Parts ##
 
